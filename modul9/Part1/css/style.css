@@ -1,0 +1,29 @@
+ /* p{
+        background-color: lightgray;
+ 
+        margin-top: 100px;
+        margin-left: 150px;
+        margin-top: 100px;
+        margin-right: 100px;
+            }*/
+/*p{
+  margin: 100px 150px 100px 80px;
+  background-color: lightgray;
+}*/
+
+p{
+  margin:100px;
+  background-color: lightgray;
+}
+
+
+div{
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+
+  background-color: lightgray;
+  border: 15px solid green;
+}
+
